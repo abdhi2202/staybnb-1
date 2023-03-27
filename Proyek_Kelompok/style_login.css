@@ -39,13 +39,15 @@ header{
     padding: 0 0 0 47px;
     background: rgba(255, 255, 255, 0.3);
 }
+
 img{
     position: relative;
-    top: -39px;
-    left: 17px;
+    top: -36px;
+    left: 10px;
     color: white;
     margin-right: 20px;
 }
+
 ::-webkit-input-placeholder{
     color: white;
 }
