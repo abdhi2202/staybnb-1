@@ -534,6 +534,7 @@ text-decoration: none;
   }
 }
 
-.shadow{
-  fill: #000;
+.shadow:hover{
+  filter: brightness(50%);
+  cursor: pointer;;
 }
